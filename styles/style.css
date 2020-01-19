@@ -537,4 +537,7 @@ form {
     .section-subtitle {
         font-size: 14px;
     }
+    .git-test-class {
+        font-size: 100px;
+    }
 }
